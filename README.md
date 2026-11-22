@@ -1,6 +1,6 @@
 ### Vector Brief
 
-40-second Shorts on Claude Code and the Claude API: one mechanism, one diagram, and the official docs as the receipt.
+40-second Shorts on AI coding tools: one mechanism, one diagram, and the official docs as the receipt.
 
 - **Kit:** copy-paste configs from every video at [vectorbriefstudio.github.io](https://vectorbriefstudio.github.io/)
 - **YouTube:** [@VectorBriefStudio](https://www.youtube.com/@VectorBriefStudio)
